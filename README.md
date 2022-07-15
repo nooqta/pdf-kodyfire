@@ -24,7 +24,7 @@ npm install pdf-kodyfire
 ## Usage
 
 Refer to the kodyfire ["install a kody"](https://github.com/nooqta/kodyfire#install-a-kody) section.
-Once your project is initialized and ready for kody, run the following command to generate your README.
+Once your project is initialized and ready for kody, run the following command to generate your PDF.
 ```sh
 kody run -s kody-word.json
 ```
